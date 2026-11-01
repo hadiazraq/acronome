@@ -1,0 +1,12 @@
+# Build output
+.build/
+build/
+.swiftpm/
+*.xcodeproj/
+DerivedData/
+
+# GPL data built locally by scripts/fetch_data.py — never commit
+Resources/data/adam.json
+
+# macOS
+.DS_Store
