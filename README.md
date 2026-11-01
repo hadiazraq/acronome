@@ -114,7 +114,7 @@ Issues and pull requests are welcome, especially **additions to the hand-checked
 
 ## Credits and references
 
-Created by **Hadi Azraq**. Released under the [MIT License](LICENSE). Third-party data keeps its own licence (see [LICENSE](LICENSE)).
+Created by **Hadi Azraq**. Released under the [MIT License](LICENSE). Third-party data keeps its own licence (see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)).
 
 - Grossman Liu, L., Grossman, R. H., Mitchell, E. G., Weng, C., Natarajan, K., Hripcsak, G., & Vawdrey, D. K. (2021). A deep database of medical abbreviations and acronyms for natural language processing. *Scientific Data, 8*, Article 149. https://doi.org/10.1038/s41597-021-00929-4
 - Schwartz, A. S., & Hearst, M. A. (2003). A simple algorithm for identifying abbreviation definitions in biomedical text. *Pacific Symposium on Biocomputing, 8*, 451–462. https://doi.org/10.1142/9789812776303_0042
