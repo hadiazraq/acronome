@@ -121,4 +121,4 @@ Created by **Hadi Azraq**. Released under the [MIT License](LICENSE). Third-part
 - Seal, R. L., Braschi, B., Gray, K., Jones, T. E. M., Tweedie, S., Haim-Vilmovsky, L., & Bruford, E. A. (2023). Genenames.org: The HGNC resources in 2023. *Nucleic Acids Research, 51*(D1), D1003–D1009. https://doi.org/10.1093/nar/gkac888
 - Zhou, W., Torvik, V. I., & Smalheiser, N. R. (2006). ADAM: Another database of abbreviations in MEDLINE. *Bioinformatics, 22*(22), 2813–2818. https://doi.org/10.1093/bioinformatics/btl480
 
-Acronome is an independent project and is not affiliated with Anthropic, HGNC or the NLM.
+Acronome is an independent project and is not affiliated with HGNC or the NLM.
